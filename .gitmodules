@@ -1,0 +1,9 @@
+[submodule "libraries/arduino_github"]
+	path = libraries/arduino_github
+	url = git@github.com:RobTillaart/Arduino.git
+[submodule "libraries/mysensors_github"]
+	path = libraries/mysensors_github
+	url = git@github.com:mysensors/Arduino.git
+[submodule "libraries/milvert_mysensors"]
+	path = libraries/milvert_mysensors
+	url = git@github.com:milvert/Arduino.git
